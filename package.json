@@ -2,7 +2,7 @@
   "name": "grade-guardian-alnusrati",
   "displayName": "GradePEX",
   "description": "Live grading for assignments. Detects logs, TODOs, absolute paths, and spaghetti code before you submit.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "alNusrati",
   "engines": {
     "vscode": "^1.90.0"
